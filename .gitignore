@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 time-series/data/household_power_consumption.txt
 time-series/data/LD2011_2014.txt.zip
+.Rhistory
