@@ -1,0 +1,9 @@
+*.pyc
+*.*~
+src/doc/_build/
+.project
+.pydevproject
+.settings/
+build
+*.test
+*.so
